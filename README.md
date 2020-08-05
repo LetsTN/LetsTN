@@ -6,6 +6,7 @@
 ## Olá pessoal 👋
 Sou uma jovem dev procurando seu lugar no mundo :earth_americas:
 
+ <br/> :computer:  &nbsp; Estou cursando Sistemas de Informação
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, LoL e seriados na Netflix
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LetTN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LetTN/)](https://www.linkedin.com/in/LetTN/) 
 | 
