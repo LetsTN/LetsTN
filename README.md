@@ -1,4 +1,4 @@
-<img width="100%" align="center" src="./banner.png">
+<img width="100%" align="center" src="https://raw.githubusercontent.com/LetsTN/LetsTN/master/banner.png">
 
 
 # Letícia Teixeira do Nascimento
