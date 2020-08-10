@@ -1,4 +1,4 @@
-<img width="100%" align="center" src="https://lh3.googleusercontent.com/proxy/CI2dwH59eAi2FXcf4M0aJyGBRqrdbujoBZtCjdfxElIhEjYqtUWyfJf7Ssvl6T9sj62Kb24Fj3v42QH7Nln1t4rR_uI0Dq-vpeQnRuVswZeIFJbDMiC2flPs">
+<img width="100%" align="center" src="./banner.png">
 
 
 # Letícia Teixeira do Nascimento
